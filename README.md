@@ -1,10 +1,7 @@
+## 👋 Hi, 我是芝士饭团
 
-### Hello World! 👋
+- 🚀 专注：前后端 / 系统架构 / 工具开发
+- 🎸 兴趣：电吉他
 
-Hi, 我是糖醋虾仁
-
-💬 有什么想问的 [可以在这里提问](https://github.com/liuchuana/liuchuana/issues).
-
-[![stat](https://github-readme-stats.vercel.app/api?username=liuchuana)](https://github.com/liuchuana)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuchuana&layout=compact)](https://github.com/liuchuana)
+💬 有问题可以在这里提问：
+👉 https://github.com/liuchuana/liuchuana/issues
