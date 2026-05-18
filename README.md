@@ -7,7 +7,7 @@
 ### 找到我
 
 - 博客 👉 https://liuchuana.com
-- 邮箱 👉liuchuana@hotmail.com
+- 邮箱 👉 isliuchuan@gmail.com
 
 
 ![](https://ghinsights.liuchuana.com/api/insight?username=liuchuana&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true)
